@@ -10,7 +10,6 @@
 
 About me:
 
--  Lagos, **Nigeria**.
 -  I’m currently working with **AWS** and **Kubernetes**.
 -  I’m currently learning everything related to **DevOps** and **automation**.
 -  Self-taught
