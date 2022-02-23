@@ -20,13 +20,4 @@ About me:
 ### 🛠 Tools:
 - ![AWS](https://img.shields.io/badge/-AWS-232F3E?&logo=amazon%20aws&logoColor=FFFFFF) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?&logo=kubernetes&logoColor=FFFFFF) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?&logo=ansible&logoColor=FFFFFF) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?&logo=terraform&logoColor=FFFFF) ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=docker&logoColor=FFFFFF) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?&logo=Jenkins&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?&logo=gnu%20bash&logoColor=FFFFFF) 
 
-### 📈 Stats 
- 
-[![Damola github stats](https://github-readme-stats.vercel.app/api?username=Damola12345&theme=cobalt&show_icons=true)](https://github.com/Damola12345/github-readme-stats)
-
-### 💡  Languages 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Damola12345&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
-
-<hr>
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adedamola-ajibola-6b179b1b6/)](https://www.linkedin.com/in/adedamola-ajibola-6b179b1b6/)
