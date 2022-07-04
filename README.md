@@ -11,8 +11,7 @@
 About me:
 
 -	I’m a Cloud/DevOps Engineer and Tech Fanatic
--	I’m currently working with **AWS** and **Kubernetes**.
--	I’m currently learning everything related to **DevOps** and **automation** 🤣.
+-	I’m currently learning everything related to **AWS** **DevOps** and **automation** 🤣.
 -	Fun fact: Cinemas,Video Gamer,Music Lover!
 -	Ask me about anything IT related.
 
