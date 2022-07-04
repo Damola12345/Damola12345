@@ -2,7 +2,7 @@
 	 Welcome to my GitHub 🚀
 </h1>
 
-### Hi there 👋
+### Hi I'm Adedamola Ajibola 👋
 
 <!--
 **Damola12345/Damola12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,9 +10,11 @@
 
 About me:
 
--  I’m currently working with **AWS** and **Kubernetes**.
--  I’m currently learning everything related to **DevOps** and **automation**.
--  Self-taught
+-	I’m a Cloud/DevOps Engineer and Tech Fanatic
+-	I’m currently working with **AWS** and **Kubernetes**.
+-	I’m currently learning everything related to **DevOps** and **automation** 🤣.
+-	Fun fact: Cinemas,Video Gamer,Music Lover!
+-	Ask me about anything IT related. Love to chat!
 
 ### ⚡ Skills:
 - ![DevOps](https://img.shields.io/badge/-DevOps-yellowgreen) ![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=linux&logoColor=FFFFFF) ![CI/CD](https://img.shields.io/badge/-CI/CD-yellowgreen) ![Monitoring](https://img.shields.io/badge/-Monitoring-red) ![Automation](https://img.shields.io/badge/-Automation-green) 
