@@ -4,9 +4,9 @@
 
 <h1 align="center"> 
 	 Bienvenido a mi GitHub 🚀
-   [![Blog Badge](https://img.shields.io/badge/-Blog-3B7EBF?style=for-the-badge&logo=Hashnode&logoColor=white&link=https://damolaaji.hashnode.dev/)](https://damolaaji.hashnode.dev/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adedamolaajibola)](https://www.linkedin.com/in/adedamolaajibola) [![Twitter Badge](https://img.shields.io/badge/-@therealadedami-3B7EBF?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/therealadedami)](https://twitter.com/therealadedami)
-
 </h1>
+
+[![Blog Badge](https://img.shields.io/badge/-Blog-3B7EBF?style=for-the-badge&logo=Hashnode&logoColor=white&link=https://damolaaji.hashnode.dev/)](https://damolaaji.hashnode.dev/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adedamolaajibola)](https://www.linkedin.com/in/adedamolaajibola) [![Twitter Badge](https://img.shields.io/badge/-@therealadedami-3B7EBF?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/therealadedami)](https://twitter.com/therealadedami)
 
 <p align="center"> (Open for Hiring)</p>
 
