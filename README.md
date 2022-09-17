@@ -14,7 +14,7 @@
 About me 👨‍💻:
 
 -	I’m a Cloud DevOps Engineer, Content Creator who's passionate about sharing knowledge, documentation, engineering.
-- I create technical content (on my [Blog](https://damolaaji.hashnode.dev/)
+- I create technical content on my [Blog](https://damolaaji.hashnode.dev/)
 -	Fun fact: Video Gamer,Music Lover!
 
 ### ⚡ Skills:
