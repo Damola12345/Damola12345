@@ -24,7 +24,5 @@ About me 👨‍💻:
 ![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)  ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=) 
 ![Terraform](https://img.shields.io/static/v1?style=for-the-badge&message=Terraform&color=222222&logo=Terraform&logoColor=3970E4&label=)
 ![Github Action](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 
-![Monitoring](https://img.shields.io/badge/-Monitoring-red) 
-![Automation](https://img.shields.io/badge/-Automation-green) 
 
 
