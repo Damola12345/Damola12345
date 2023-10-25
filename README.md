@@ -11,7 +11,7 @@
 
 About me 👨‍💻:
 
-- Cloud DevOps Engineer & I'm passionate about building and deploying cloud-based systems while sharing my knowledge and expertise
+- I'm a Cloud DevOps Engineer with a strong passion for constructing and deploying cloud-based systems, all while actively sharing my knowledge and expertise.
 - 📝 Check out my articles on [Blog](https://damolaaji.hashnode.dev/)
 - 🎮 Fun fact: Video Gamer,Music Lover!
 
