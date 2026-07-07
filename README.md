@@ -9,7 +9,7 @@ I design production-ready infrastructure across AWS, Kubernetes, and on-premises
 
 Outside of work, I document engineering decisions, production debugging techniques, and infrastructure lessons learned to help other engineers.
 
-### ⚡ Skills
+### Skills
 
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 ![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=222222&logo=Kubernetes&logoColor=3970E4&label=)
