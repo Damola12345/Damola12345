@@ -2,7 +2,7 @@
 **Damola12345/Damola12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # Hi, I'm Adedamola
-DevOps & Site Reliability Engineer designing reliable cloud platforms across AWS, Kubernetes, and on-premises environments.
+DevOps & Site Reliability Engineer designing reliable cloud platforms across AWS, Kubernetes and on-premises environments.
 
 My work focuses on Infrastructure as Code, CI/CD automation, observability, and cloud-native technologies.
 
